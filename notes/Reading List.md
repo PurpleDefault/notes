@@ -1,3 +1,4 @@
+Secular Age by Charles Taylor
 Augusto Del Noce
 Wim Hof Method
 Aquinas Elenore Stump
