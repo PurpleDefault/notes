@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quotes.md",
+            "file": "Marketing & Websites/Complete WordPress Business Course.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes.md",
+                "file": "Marketing & Websites/Complete WordPress Business Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "0c196954dad2a5f3",
   "lastOpenFiles": [
-    "Quotes.md",
+    "Marketing & Websites/Complete WordPress Business Course.md",
     "Marketing & Websites/Wealth Pin Webinar by Alex Reid.md",
+    "Quotes.md",
     "Reading List.md"
   ]
 }
