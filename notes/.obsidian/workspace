@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marketing & Websites/Wealth Pin Webinar by Alex Reid.md",
+            "file": "Quotes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing & Websites/Wealth Pin Webinar by Alex Reid.md",
+                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "0c196954dad2a5f3",
   "lastOpenFiles": [
-    "Marketing & Websites/Wealth Pin Webinar by Alex Reid.md",
     "Quotes.md",
+    "Marketing & Websites/Wealth Pin Webinar by Alex Reid.md",
     "Reading List.md"
   ]
 }
