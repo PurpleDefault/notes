@@ -1,3 +1,4 @@
+Introduction to the Devout Life by St. Francis De Sales
 Secular Age by Charles Taylor
 Augusto Del Noce
 Wim Hof Method
@@ -38,11 +39,3 @@ Stoicism Today: Selected Writings Volume 3 by Leah Goldrick, Gregory B. Sadler
 The Liberal Crack-Up, R Emmet Tyrrell
 A House for My Name: A Survey of the Old Testament
 Through New Eyes: Developing a Biblical View of the World
-Letters to a Diminished Church: Passionate Arguments for the Relevance of Christian Doctrine by Dorothy Sayers
-
-~~Leisure The Basis of Culture, Josef Pieper
-The Sanctifier by Luis Martinez
-Robert Hugh Benson, The Lord of the World
-What Catholics Believe by Josef Pieper & Heinz Raskop
-The Four Cardinal Virtues by Josef Pieper
-Tom Holland, Dominion~~
