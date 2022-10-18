@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marketing & Websites/Wealth Pin Webinar by Alex Reid.md",
-            "mode": "source"
+            "file": "Good Money Podcast/Good Money - Q&A.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243
   },
   "right": {
     "id": "20df1fc5929df560",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Good Money Podcast/Episode 22 - Temperance.md",
+                "file": "Good Money Podcast/Good Money - Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +89,13 @@
   },
   "active": "0c196954dad2a5f3",
   "lastOpenFiles": [
-    "Good Money Podcast/Episode 22 - Temperance.md",
-    "Good Money Podcast/Good Money - Q&A.md",
+    "Marketing & Websites/The Lost Secrets of Breakthrough Advertising.md",
     "Marketing & Websites/Wealth Pin Webinar by Alex Reid.md",
-    "Marketing & Websites/Complete WordPress Business Course.md",
+    "Good Money Podcast/Good Money - Q&A.md",
+    "Resources.md",
     "Reading List.md",
-    "Quotes.md"
+    "Quotes.md",
+    "Good Money Podcast/Episode 22 - Temperance.md",
+    "Marketing & Websites/Complete WordPress Business Course.md"
   ]
 }
